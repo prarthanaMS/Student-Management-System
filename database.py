@@ -20,6 +20,7 @@ def create_table():
     conn.commit()
     conn.close()
 
+# User all users
 def fetch_users():
     conn = sqlite3.connect('student-management.db')
     cursor = conn.cursor()
@@ -28,6 +29,7 @@ def fetch_users():
     conn.close()
     return users
 
+#  Data Insert
 def insert_user(username, dob, department, password, role, gender):
     conn = sqlite3.connect('student-management.db')
     cursor = conn.cursor()
