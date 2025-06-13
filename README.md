@@ -33,12 +33,6 @@ This project is part of the PySkillsBooster series to help learners practice rea
 
 ---
 
-### 🟢 Bonus (For Future)
-
-If you decide to scale your project (e.g., GUI, modules), consider this layout
-
----
-
 ## ▶ How to Run This Project
 
 You can run this Python project on Windows, Mac, or Linux.
