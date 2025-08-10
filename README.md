@@ -42,11 +42,5 @@ It’s designed to be **simple, efficient, and easy to use** for schools, colleg
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/Student-Management-System.git
-
 *Happy Python Coding! 🐍✨*
 
